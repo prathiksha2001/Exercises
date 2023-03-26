@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    
+}
+
+table {
+    width: 60%;
+    align: center;
+    margin-left: 20%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+  }
+
+  td {
+    text-align: center;
+    padding: 5px;
+  }
+
+  .form {
+    margin-top: 20px;
+  }
+
+  #content{
+    width: 40%;
+    margin-left: 20%;
+    height: 5%;
+  }
